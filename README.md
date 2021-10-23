@@ -4,5 +4,10 @@
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me: just follow me on twitter
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismael221&theme=dark&show_icons=true)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael221&theme=dark">
+</div>
+ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael221)](https://github.com/anuraghazra/github-readme-stats)
+
