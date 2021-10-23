@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me: just follow me on twitter
 
-<!---
-ismael221/ismael221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael221)](https://github.com/anuraghazra/github-readme-stats)
