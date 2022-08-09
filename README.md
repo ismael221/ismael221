@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismael221
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Mysql
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 How to reach me: just follow me on twitter
 
